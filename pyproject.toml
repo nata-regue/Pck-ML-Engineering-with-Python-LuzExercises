@@ -1,0 +1,4 @@
+[To manage your project's dependencies, you can add them to the pyproject.toml file in the root directory of your project.You can then install the dependencies for your project by running the following command. This will install the scikit-learn library and any other dependencies specified in your pyproject.toml file. poetry install]
+
+[tool.poetry.dependencies]
+scikit-learn = "*"
